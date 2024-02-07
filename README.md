@@ -39,3 +39,5 @@ Dalam studi kasus ini, kita akan membuat visualisasi dashboard untuk analisis pe
    - Visualisasi persebaran total sales berdasarkan provinsi.
 3. **Top 5 Provinsi Berdasarkan Grup dan Tahun:**
    - Menampilkan top 5 provinsi berdasarkan grup dan tahun.
+
+Dataset dan Case Study dari project based internship Rakamin Academy X Kimia Farma
